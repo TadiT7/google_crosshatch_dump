@@ -1,0 +1,12 @@
+/vendor/lib/modules/snd-soc-cs35l36.ko:
+/vendor/lib/modules/snd-soc-sdm845.ko: /vendor/lib/modules/snd-soc-wcd934x.ko /vendor/lib/modules/snd-soc-wcd9xxx.ko /vendor/lib/modules/wcd-core.ko
+/vendor/lib/modules/snd-soc-wcd9xxx.ko: /vendor/lib/modules/wcd-core.ko
+/vendor/lib/modules/ftm5.ko:
+/vendor/lib/modules/wcd-core.ko:
+/vendor/lib/modules/snd-soc-wcd934x.ko: /vendor/lib/modules/snd-soc-wcd9xxx.ko /vendor/lib/modules/wcd-core.ko
+/vendor/lib/modules/sec_touch.ko:
+/vendor/lib/modules/snd-soc-wcd-spi.ko:
+/vendor/lib/modules/pinctrl-wcd.ko:
+/vendor/lib/modules/wlan.ko:
+/vendor/lib/modules/snd-soc-sdm845-max98927.ko: /vendor/lib/modules/snd-soc-wcd934x.ko /vendor/lib/modules/snd-soc-wcd9xxx.ko /vendor/lib/modules/wcd-core.ko
+/vendor/lib/modules/wcd-dsp-glink.ko:

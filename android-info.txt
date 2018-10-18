@@ -1,0 +1,7 @@
+require board=crosshatch|blueline
+require partition-exists=product
+
+require version-bootloader=b1c1-0.1-4948814
+
+
+require version-baseband=g845-00023-180815-B-4956438
